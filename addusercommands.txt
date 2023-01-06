@@ -1,0 +1,2 @@
+node cli.mjs --host 10.225.58.232 --port 5858 add --password w0rd --family-name Flynn --given-name Martin --email me@stolen.tardis
+node cli.mjs --host 10.225.58.223 --port 5858 add --password w0rd --family-name Kean --given-name Peter --email peter@stolen.tardis kean

@@ -1,0 +1,1 @@
+rsync -arctuxz --remove-source-files authner /public/templates/
